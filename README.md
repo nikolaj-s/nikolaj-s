@@ -1,10 +1,5 @@
-#Hello
+# Introduction
 
-* 👋 Hi, I’m nikolaj
-* I believe the future is progressive web apps
-* 👀 I’m interested in developing applications
-* 🌱 I’m currently learning swift, building chat bots with python, and advanced security measures
-
-* 📫 How to reach me: Visit norxwestdesigns.ca
+Hello! My name is Niko, and I am a freelance software and web developer specializing in progressive web applications (PWAs) with a focus on the MERN stack. My flagship project, **Bubble**, is an innovative open voice and video chat desktop application designed to enhance online communication. I am passionate about creating seamless and user-friendly digital experiences, and I look forward to sharing more about my work with you!
 
 
